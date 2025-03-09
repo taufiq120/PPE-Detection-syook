@@ -1,0 +1,4 @@
+train: C:/ML Projects/Syook Assignment/datasets/cropped_persons/train/images
+val: C:/ML Projects/Syook Assignment/datasets/cropped_persons/val/images
+nc: 9
+names: ['hard-hat', 'gloves', 'mask', 'glasses', 'boots', 'vest', 'ppe-suit', 'ear-protector', 'safety-harness']

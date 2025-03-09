@@ -1,0 +1,4 @@
+train: C:/ML Projects/Syook Assignment/datasets/images
+val: C:/ML Projects/Syook Assignment/datasets/images
+nc: 1
+names: ['person']
